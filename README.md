@@ -10,11 +10,9 @@ It uses **LangGraph**, **LangChain**, and **Groq/ChatGPT LLMs** to build modular
 
 ### Links
 
-- **[Presentation Slides](https://github.com/ashloong/langchain-for-good/blob/main/HealthLight%20-%20Universal%20Health%20Navigator.pdf)**
+- **[Presentation Slides](https://github.com/TiffusionLabs/HealthLight-AIAgent/blob/main/HealthLight%20-%20Universal%20Health%20Navigator%20Companion.pdf)**
 
-- **[Demo Video](https://github.com/ashloong/langchain-for-good/blob/main/HealthLight-demo.mp4)**
-
-- **[Google Drive (Demo, Slides)](https://drive.google.com/drive/folders/1m_wLZYN14QVh8Tm4n59E5pjymtccwM4w?usp=sharing)**
+- **[Demo Video](https://github.com/TiffusionLabs/HealthLight-AIAgent/blob/main/HealthLight-demo.mp4)**
 
 - **[Google Colab Notebook](https://colab.research.google.com/drive/1IPOwPDo9bpn5JcnG7zlqXx-k0W-7vQm1?usp=sharing#scrollTo=D6BIoI8qr9i8)**
 
@@ -35,8 +33,8 @@ It uses **LangGraph**, **LangChain**, and **Groq/ChatGPT LLMs** to build modular
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ashloong/langchain-for-good.git
-   cd langchain-for-good
+   git clone https://github.com/TiffusionLabs/HealthLight-AIAgent.git
+   cd HealthLight-AIAgent
    ```
 
 2. **Create and activate a virtual environment**
